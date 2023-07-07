@@ -8,6 +8,8 @@ In this UofT Bootcamp challenge, we were tasked with completing a basic text edi
 
 You can run the app using npm run start:dev and then npm run start. This will build the webpack and launch the server on the local host. From the local host, you can use the app, but also install the app to you device locally by clicking the install button.
 
+Heroku App: https://cryptic-mesa-79959-6e89e088e2b8.herokuapp.com/
+
 Github Repo: https://github.com/Sunderfire/Text-Editor-App.git
 
 ## Credits
